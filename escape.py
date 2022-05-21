@@ -17,8 +17,8 @@
 # print('He"y')
 # print("He\"y")
 
-# print('python'   'programming')
-# print('python\n'   'programming')
-# print('python'   '\nprogramming')
+# print('python'  'programming')
+# print('python\n'  'programming')
+# print('python'  '\nprogramming')
 # print('python'  , 'programming',sep='\n')
 # print('python'+'\n'+'programming')
