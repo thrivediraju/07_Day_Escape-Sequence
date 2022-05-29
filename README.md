@@ -1,7 +1,7 @@
 # 07_Day_Escape-Sequence
 Python Escape Sequence
 
-Image: Escape Sequence
+Image:- Escape Sequence
 Escape Sequence Introduction
 Escape Introduction
 Practice Screen Shot
