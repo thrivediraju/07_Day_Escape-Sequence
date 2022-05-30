@@ -4,7 +4,7 @@
 
 # print('Hi welcome to python programming \
 # which is running in 2nd floor at 10:30Am to 11:20Am \
-# from Monday-Fri')
+# from Monday-Friday')
 
 # print(len('Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu'))
 
